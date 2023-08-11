@@ -1,8 +1,8 @@
 # portfolio
 
 
-# FONTS
+## FONTS
 
-# Karmatic Arcade:
-# https://www.dafont.com/karmatic-arcade.font
+### Karmatic Arcade:
+### https://www.dafont.com/karmatic-arcade.font
 
