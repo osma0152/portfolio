@@ -1,0 +1,39 @@
+* {
+    color: #FF008C;
+}
+
+@font-face {
+    font-family: KarmaticArcade;
+    src: url(ka1.ttf);
+}
+
+header, h1, footer {
+    font-family: KarmaticArcade;
+}
+
+.logo {
+    position: absolute;
+    top: 5px;
+    left: 50px;
+    width: 200px;
+    height: auto;
+}
+
+.nav-link {
+    color: #FF008C;
+}
+
+.about-me {
+    font-family: KarmaticArcade;
+}
+
+.profile-image {
+    float: right;
+    margin-left: 20px;
+    max-width: 800px;
+    border-radius: 50%;
+}
+.about-text {
+    text-align: center;
+    padding-right: 10rem;
+}
